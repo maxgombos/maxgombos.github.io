@@ -1,7 +1,9 @@
 ---
 title: Contact
-feature_text: Contact
+feature_text: |
+  ## Email form
+  I Look forward to hearing from you!
 feature_image: "https://picsum.photos/2560/600?image=873"
-excerpt: "A demo of Markdown and HTML includes"
+excerpt: "Contact form"
 ---
-Add contact thing here
+{% include site-form.html %}
