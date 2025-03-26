@@ -99,6 +99,12 @@ navigation_header:
   url: /
 - title: About
   url: /about/
+- title: Resume
+  url: /resume/
+- title: Portfolio
+  url: /portfolio/
+- title: Contact
+  url: /contact/
 
 navigation_footer:
 - title: Created by Max Gombos 
