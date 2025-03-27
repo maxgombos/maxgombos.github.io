@@ -11,3 +11,8 @@ Much of my experience through the years has been gained from my involvement with
 In recent years I have focused on developing the more technical skills I can bring to the table. Working with computers is something I have been comfortable with for a while now, having built many for myself, friends, and family. Through my past internships, I have gained experience managing them in a professional setting, along with proficiency in a variety of programming languages. I also have experience in part design and manufacturing. Whether it be through CAD or hand drafting, I have learned how to efficiently turn an idea into a finalized design.  
 As I continue to learn and grow professionally, I am excited to see how I can leverage these skills and experiences of mine in real world problems. I look forward to working with others who continue to push boundaries and develop innovative solutions to problems.
 
+___
+
+### Contact Me To Learn More  
+{% include button.html text="Contact Form" link="https://maxgombos.github.io/contact" %}
+{% include button.html text="LinkedIn" link="https://www.linkedin.com/in/maxwell-gombos-993a51348" %}
