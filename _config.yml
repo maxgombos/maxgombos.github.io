@@ -18,10 +18,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
 
 # Build settings
 #theme: minima
@@ -68,9 +64,9 @@ timezone: America/New_York # Timezone for blog posts and alike
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Portfolio" # Site name or title, also used in jekyll-seo-tag
+title: "Maxwell Gombos" # Site name or title, also used in jekyll-seo-tag
 #logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
+description: "A portfolio of the work of Max Gombos." # Site description and default description, also used in jekyll-seo-tag
 url: "https://maxgombos.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/maxgombos/maxgombos.github.io"
